@@ -23,7 +23,7 @@ pip install random requests textblob transformers googletrans
 
 #### Usage
 1. Clone the repository:
-git clone [[https://github.com/your-username/python-chatbot.git](https://github.com/priyankaa-roy/Python-Chatbot/tree/main)](https://github.com/priyankaa-roy/Python-Chatbot)
+git clone [(https://github.com/priyankaa-roy/Python-Chatbot/tree/main)](https://github.com/priyankaa-roy/Python-Chatbot)
 
 2. Navigate to the project directory:
 cd python-chatbot
