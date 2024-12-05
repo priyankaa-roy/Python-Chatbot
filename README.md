@@ -1,5 +1,5 @@
 # 🤖 Python Chatbot Project
-Welcome to the Python Chatbot project! This repository contains a feature-rich chatbot built using Python. The bot can handle basic user interactions, detect intent, perform sentiment analysis, set reminders, provide trivia and jokes, and even make recommendations.
+Welcome to the Python Chatbot project. This repository contains a feature-rich chatbot built using Python. The bot can handle basic user interactions, detect intent, perform sentiment analysis, set reminders, provide trivia and jokes, and even make recommendations.
 
 ## 📚 Features
 - `Smart Intent Detection`: Recognizes user intents like greetings, help requests, feedback, complaints, and more.
@@ -23,7 +23,7 @@ pip install random requests textblob transformers googletrans
 
 #### Usage
 1. Clone the repository:
-git clone https://github.com/your-username/python-chatbot.git
+git clone [https://github.com/your-username/python-chatbot.git](https://github.com/priyankaa-roy/Python-Chatbot/tree/main)
 
 2. Navigate to the project directory:
 cd python-chatbot
